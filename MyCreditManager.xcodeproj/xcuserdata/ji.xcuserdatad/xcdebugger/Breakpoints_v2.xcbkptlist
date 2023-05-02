@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E50C8C6E-10ED-4384-9CEB-7BBDE350ED94"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4AE51EC-18E2-454C-B26A-129F8DDCC6EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCreditManager/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Item"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F4AE51EC-18E2-454C-B26A-129F8DDCC6EA - 24d37bd069ba05c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCreditManager.Item.init() -&gt; MyCreditManager.Item"
+                  moduleName = "MyCreditManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ji/workspace/MyCreditManager/MyCreditManager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "173">
+               </Location>
+               <Location
+                  uuid = "F4AE51EC-18E2-454C-B26A-129F8DDCC6EA - e80c52a4210421b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCreditManager.Item.init(name: Swift.Optional&lt;Swift.String&gt;, sub: Swift.Optional&lt;Swift.String&gt;, grade: Swift.Optional&lt;Swift.String&gt;) -&gt; MyCreditManager.Item"
+                  moduleName = "MyCreditManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ji/workspace/MyCreditManager/MyCreditManager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

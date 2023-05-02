@@ -80,7 +80,9 @@ let itemManager = ItemManager()
 
 while true {
     print("원하는 기능을 입력해 주세요\n 1: 학생추가, 2: 학생삭제, 3: 성적추가(변경), 4: 성적삭제, 5: 평점보기,  X: 종료")
+    
     guard let command = readLine() else { continue }
+    
     switch command {
         
     case "1":
@@ -127,6 +129,7 @@ while true {
         
     case "4":
         print("성적을 삭제할 학생의 이름, 과목 이름을 띄어쓰기로 구분하여 차레로 작성해주세요.")
+        //        guard let name = readLine() else { continue }
         guard let input = readLine() else { continue }
         let components = input.split(separator: " ")
         let comCount = components.count
